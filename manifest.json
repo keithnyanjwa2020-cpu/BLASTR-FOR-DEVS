@@ -1,0 +1,16 @@
+{
+  "name": "Blastr — Remix Edition",
+  "short_name": "Blastr",
+  "description": "A self-contained streaming music experience: composed-on-device radio, playlists, uploads and a full admin studio. Offline-first.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050a17",
+  "theme_color": "#050a17",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
